@@ -14,7 +14,7 @@ further useful helper methods.
 Via Composer
 
 ``` bash
-$ composer require lintaba/orchid-tables
+$ composer require chatphp/orchid-tables
 ```
 
 ## Usage
